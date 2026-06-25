@@ -1,0 +1,2 @@
+# Öffentliche URL der Knaller Sound App auf Netlify (eine Zeile, beginnend mit https://).
+https://knallersound.netlify.app/
