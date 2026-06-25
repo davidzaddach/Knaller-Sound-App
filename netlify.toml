@@ -1,0 +1,3 @@
+[build]
+  command = "npx expo export --platform web && node scripts/post-build.js"
+  publish = "dist"
